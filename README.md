@@ -6,8 +6,8 @@
 [![Deploy](https://telegra.ph/file/bb40440f17436b4095e61.jpg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SoulQueen.git)
 
 ## DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/Deadpoolhr/SoulQueen)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/Deadpoolhr/SoulQueen)<
+ /br>
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
 Can be found on telegram as [SoulQueen](https://t.me/SoulQueenBot) 👸🏻
