@@ -10,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/Deadpoolhr/SoulQueen",
+  "repository": "hhttps://github.com/Deadpoolhr/SoulQueen",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
